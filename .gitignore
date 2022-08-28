@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+
+# Python
+__pycache__
+
+# Config
+.env
+
+# Database
+*.db
+
+# Logs
+logs/
+
+# JSON files
+*.json
+
+# macOS
+.DS_Store
